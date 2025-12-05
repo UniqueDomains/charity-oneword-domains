@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CHARITY one-word domains still available to buy.
 
-This dataset contains 4,711 .CHARITY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,710 .CHARITY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CHARITY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=description.top) (4,712) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.CHARITY one word doma
 | aaron.charity      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.charity  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.charity      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.charity  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.charity  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.charity    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.charity     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.charity   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.CHARITY one word doma
 | abaxial.charity    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.charity   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.charity  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.charity  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.charity  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.charity | available | 56       | 1%     | 10     |           |         |         |
 | abducens.charity   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.charity   | available | 68       | 1%     | 8      |           |         |         |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.CHARITY one word doma
 | aberdonian.charity | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.charity   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.charity    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.charity  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.charity  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.charity    | available | 106      | 5%     | 7      |           |         |         |
 | abient.charity     | available | 54       | 1%     | 6      |           |         |         |
 | ability.charity    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CHARITY one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
