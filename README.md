@@ -66,13 +66,13 @@ print(df.head())
 | ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | habitat.charity   | available | $5.99      | —             | 74             | 66     | 7      | name.com          |
 | power.charity     | resell    | $37.98     | —             | 98             | 62     | 5      | Porkbun LLC       |
-| free.charity      | premium   | $250       | $250          | 88             | 59     | 4      | name.com          |
+| cloud.charity     | premium   | $260       | $260          | 70             | 59     | 5      | namecheap         |
 | line.charity      | available | $37.98     | —             | 74             | 65     | 4      | namecheap         |
 | pure.charity      | resell    | $15,105.93 | —             | 86             | 45     | 4      | Sav.com, LLC      |
-| cloud.charity     | premium   | $260       | $260          | 70             | 59     | 5      | namecheap         |
+| ace.charity       | premium   | $41.25     | $41.25        | 88             | 57     | 3      | name.com          |
 | seventeen.charity | available | $5.99      | $40.99        | 84             | 62     | 9      | name.com          |
 | hello.charity     | resell    | —          | —             | 92             | 70     | 5      | NameSilo, LLC     |
-| ace.charity       | premium   | $41.25     | $41.25        | 88             | 57     | 3      | name.com          |
+| free.charity      | premium   | $250       | $250          | 88             | 57     | 4      | name.com          |
 | music.charity     | available | $5.99      | —             | 84             | 54     | 5      | name.com          |
 | now.charity       | resell    | —          | —             | 78             | 66     | 3      | Dynadot Inc       |
 | good.charity      | premium   | $250       | $250          | 82             | 57     | 4      | name.com          |
