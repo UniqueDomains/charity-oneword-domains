@@ -1,22 +1,22 @@
-# Available .CHARITY One-Word Domains (9,516)
+# Available .CHARITY One-Word Domains (12,313)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C516%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C516%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C313%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .charity one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .charity one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,313 domains** on the canonical page below.
 
-**Public extract:** 9,516 rows · **Live catalog:** 9,516 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,313 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/charity`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CHARITY one-word doma
 
 ### Files
 
-- `charity.csv` — public CSV extract (9,516 rows)
-- `charity.json` — public JSON extract (9,516 rows)
+- `charity.csv` — public CSV extract (1,000 rows)
+- `charity.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| habitat.charity   | available | $5.99      | —             | 74             | 66     | 7      | name.com          |
-| power.charity     | resell    | $37.98     | —             | 98             | 62     | 5      | Porkbun LLC       |
-| cloud.charity     | premium   | $260       | $260          | 70             | 59     | 5      | namecheap         |
-| line.charity      | available | $37.98     | —             | 74             | 65     | 4      | namecheap         |
-| pure.charity      | resell    | $15,105.93 | —             | 86             | 45     | 4      | Sav.com, LLC      |
-| ace.charity       | premium   | $41.25     | $41.25        | 88             | 57     | 3      | name.com          |
-| seventeen.charity | available | $5.99      | $40.99        | 84             | 62     | 9      | name.com          |
-| hello.charity     | resell    | —          | —             | 92             | 70     | 5      | NameSilo, LLC     |
-| free.charity      | premium   | $250       | $250          | 88             | 57     | 4      | name.com          |
-| music.charity     | available | $5.99      | —             | 84             | 54     | 5      | name.com          |
-| now.charity       | resell    | —          | —             | 78             | 66     | 3      | Dynadot Inc       |
-| good.charity      | premium   | $250       | $250          | 82             | 57     | 4      | name.com          |
-| athletics.charity | available | $37.98     | —             | 69             | 52     | 9      | namecheap         |
-| news.charity      | resell    | —          | —             | 100            | 64     | 4      | Spaceship, Inc.   |
-| data.charity      | premium   | $250       | —             | 84             | 56     | 4      | name.com          |
-| trade.charity     | available | $37.98     | —             | 116            | 46     | 5      | namecheap         |
-| smart.charity     | resell    | —          | —             | 74             | 56     | 5      | Sav.com, LLC - 23 |
-| alpha.charity     | premium   | $5.99      | $40.99        | 90             | 53     | 5      | name.com          |
-| snap.charity      | available | $5.99      | $40.99        | 90             | 46     | 4      | name.com          |
-| info.charity      | resell    | —          | —             | 80             | 51     | 4      | Porkbun LLC       |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| makers.charity        | available | $5.99     | —             | 62             | 67     | 6      | name.com        |
+| view.charity          | resell    | —         | —             | 76             | 38     | 4      | Spaceship, Inc. |
+| etc.charity           | premium   | $41.25    | —             | 58             | 34     | 3      | name.com        |
+| donuts.charity        | available | $5.99     | —             | 54             | 62     | 6      | name.com        |
+| has.charity           | premium   | $41.25    | —             | 60             | 26     | 3      | name.com        |
+| RedSox.charity        | available | $37.98    | —             | 72             | 60     | 7      | namecheap       |
+| VHS.charity           | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap       |
+| agents.charity        | available | $5.99     | —             | 56             | 50     | 6      | name.com        |
+| VirginiaBeach.charity | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap       |
+| cars.charity          | available | $5.99     | —             | 66             | 47     | 4      | name.com        |
+| jobs.charity          | available | $5.99     | —             | 79             | 42     | 4      | name.com        |
+| matcha.charity        | available | $5.99     | —             | 86             | 39     | 6      | name.com        |
+| WiFi.charity          | available | $37.98    | —             | 83             | 37     | 5      | namecheap       |
+| stories.charity       | available | $5.99     | —             | 58             | 36     | 7      | name.com        |
+| aliens.charity        | available | $5.99     | —             | 56             | 35     | 6      | name.com        |
+| slots.charity         | available | $5.99     | —             | 49             | 31     | 5      | name.com        |
+| popup.charity         | available | $5.99     | —             | 84             | 29     | 6      | name.com        |
+| quotes.charity        | available | $5.99     | —             | 58             | 29     | 6      | name.com        |
+| Keith.charity         | available | $37.98    | —             | 66             | 25     | 5      | namecheap       |
+| Trex.charity          | available | $37.98    | —             | 80             | 24     | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,516-row public sample | 9,516 live domains                               |
+| 1,000-row public sample | 12,313 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
