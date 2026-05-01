@@ -1,10 +1,10 @@
-# Available .CHARITY One-Word Domains (12,313)
+# Available .CHARITY One-Word Domains (12,471)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C313%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C471%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .charity one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,313 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,471 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,313 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,471 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/charity`  
 **Best for:** founders, investors, studios
 
@@ -72,12 +72,12 @@ print(df.head())
 | RedSox.charity        | available | $37.98    | —             | 72             | 60     | 7      | namecheap       |
 | VHS.charity           | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap       |
 | agents.charity        | available | $5.99     | —             | 56             | 50     | 6      | name.com        |
-| VirginiaBeach.charity | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap       |
+| OKs.charity           | premium   | $38.94    | $38.94        | 68             | 13     | 3      | namesilo        |
 | cars.charity          | available | $5.99     | —             | 66             | 47     | 4      | name.com        |
+| VirginiaBeach.charity | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap       |
 | jobs.charity          | available | $5.99     | —             | 79             | 42     | 4      | name.com        |
 | matcha.charity        | available | $5.99     | —             | 86             | 39     | 6      | name.com        |
 | WiFi.charity          | available | $37.98    | —             | 83             | 37     | 5      | namecheap       |
-| stories.charity       | available | $5.99     | —             | 58             | 36     | 7      | name.com        |
 | aliens.charity        | available | $5.99     | —             | 56             | 35     | 6      | name.com        |
 | slots.charity         | available | $5.99     | —             | 49             | 31     | 5      | name.com        |
 | popup.charity         | available | $5.99     | —             | 84             | 29     | 6      | name.com        |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,313 live domains                              |
+| 1,000-row public sample | 12,471 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
