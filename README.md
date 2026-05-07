@@ -65,7 +65,7 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | makers.charity        | available | $5.99     | —             | 62             | 67     | 6      | name.com        |
-| view.charity          | resell    | —         | —             | 76             | 38     | 4      | Spaceship, Inc. |
+| view.charity          | resell    | —         | —             | 76             | 37     | 4      | Spaceship, Inc. |
 | etc.charity           | premium   | $41.25    | —             | 58             | 34     | 3      | name.com        |
 | donuts.charity        | available | $5.99     | —             | 54             | 62     | 6      | name.com        |
 | has.charity           | premium   | $41.25    | —             | 60             | 26     | 3      | name.com        |
