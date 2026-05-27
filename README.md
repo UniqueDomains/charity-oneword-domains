@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .charity one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,473 domains · **Median ask:** $15.42 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/charity`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | makers.charity        | available | $5.99     | —             | 62             | 67     | 6      | name.com        |
 | view.charity          | resell    | —         | —             | 76             | 37     | 4      | Spaceship, Inc. |
-| etc.charity           | premium   | $41.25    | —             | 58             | 34     | 3      | name.com        |
+| etc.charity           | premium   | $41.25    | —             | 58             | 32     | 3      | name.com        |
 | donuts.charity        | available | $5.99     | —             | 54             | 62     | 6      | name.com        |
 | has.charity           | premium   | $41.25    | —             | 60             | 26     | 3      | name.com        |
 | RedSox.charity        | available | $37.98    | —             | 72             | 60     | 7      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
