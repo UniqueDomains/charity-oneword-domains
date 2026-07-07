@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .charity one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,473 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,473 domains · **Median ask:** $15.42 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,473 domains · **Median ask:** $12.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/charity`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/charity`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CHARITY one-word doma
 
 ### Files
 
-- `charity.csv` — public CSV extract (1,000 rows)
-- `charity.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `charity.csv`, public CSV extract (1,000 rows)
+- `charity.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| makers.charity        | available | $5.99     | —             | 62             | 67     | 6      | name.com        |
-| view.charity          | resell    | —         | —             | 76             | 37     | 4      | Spaceship, Inc. |
-| etc.charity           | premium   | $41.25    | —             | 58             | 32     | 3      | name.com        |
-| donuts.charity        | available | $5.99     | —             | 54             | 62     | 6      | name.com        |
-| has.charity           | premium   | $41.25    | —             | 60             | 26     | 3      | name.com        |
-| RedSox.charity        | available | $37.98    | —             | 72             | 60     | 7      | namecheap       |
-| VHS.charity           | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap       |
-| agents.charity        | available | $5.99     | —             | 56             | 50     | 6      | name.com        |
-| OKs.charity           | premium   | $38.94    | $38.94        | 68             | 13     | 3      | namesilo        |
-| cars.charity          | available | $5.99     | —             | 66             | 47     | 4      | name.com        |
-| VirginiaBeach.charity | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap       |
-| jobs.charity          | available | $5.99     | —             | 79             | 42     | 4      | name.com        |
-| matcha.charity        | available | $5.99     | —             | 86             | 39     | 6      | name.com        |
-| WiFi.charity          | available | $37.98    | —             | 83             | 37     | 5      | namecheap       |
-| aliens.charity        | available | $5.99     | —             | 56             | 35     | 6      | name.com        |
-| slots.charity         | available | $5.99     | —             | 49             | 31     | 5      | name.com        |
-| quotes.charity        | available | $5.99     | —             | 58             | 29     | 6      | name.com        |
-| popup.charity         | available | $5.99     | —             | 84             | 28     | 6      | name.com        |
-| Keith.charity         | available | $37.98    | —             | 66             | 25     | 5      | namecheap       |
-| Trex.charity          | available | $37.98    | —             | 80             | 24     | 5      | namecheap       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| correct.charity | available | $5.99     | $40.99        | high           | low    | 7      | name.com                  |
+| room.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| period.charity  | available | $5.99     | —             | high           | low    | 6      | name.com                  |
+| acre.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
+| beast.charity   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.           |
+| atp.charity     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
+| band.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
+| hello.charity   | resell    | —         | —             | high           | high   | 5      | NameSilo, LLC             |
+| awe.charity     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
+| bass.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
+| sweet.charity   | resell    | —         | —             | high           | low    | 5      | Go Australia Domains, LLC |
+| bit.charity     | premium   | $242      | $242          | high           | medium | 3      | namesilo                  |
+| belt.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| token.charity   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc               |
+| DJI.charity     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
+| bill.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| ego.charity     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
+| blue.charity    | available | $5.99     | —             | high           | medium | 4      | name.com                  |
+| Eid.charity     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
+| boom.charity    | available | $5.99     | —             | high           | medium | 4      | name.com                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .charity extension, which makes the set narrow and easy to compare. The strongest picks are usually the words that match a cause, organization type, campaign, or donor message without strain. Names like union.charity or marriage.charity are direct and category legible, while broader words like bullet.charity or despite.charity need a clearer use case. For founders, the key question is whether the word is memorable and credible on a nonprofit-facing extension. For investors, the key question is whether the word has enough semantic fit with charity use cases to support resale interest at a sensible carrying cost.
+This selection covers one-word and short-phrase domain names on the .charity extension, from everyday words like half.charity and out.charity to festive and cause-oriented terms like christmas.charity. Pricing across the set sits near a $13 median ask, close to standard first-year registration cost rather than premium resale pricing. Because .charity signals mission and trust, these domains are frequently considered by nonprofits, fundraisers, and cause-driven brands looking for a short, memorable name they can register directly. When comparing options in this list, weigh word length, spellability, and renewal cost alongside any potential trademark conflicts before committing to a name.
 
-- Prefer words with clear nonprofit or cause alignment
-- Check whether the word feels credible on .charity
-- Use median ask 15.42 as a baseline for comparisons
-- Be cautious with abstract or awkward-fit dictionary words
+- 12,473 one-word .charity domains available to register now
+- Median ask near $13 — transparent pricing across this TLD
+- Brandable names like half.charity and okay.charity, ownable now
+- A steady renewal-cost TLD suited to cause-driven brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
