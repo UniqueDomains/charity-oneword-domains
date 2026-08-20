@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .charity one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,405 domains · **Median ask:** $10.30 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/charity`
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,6 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
 | correct.charity | available | $5.99     | $40.99        | high           | low    | 7      | name.com                  |
 | room.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
-| period.charity  | available | $5.99     | —             | high           | low    | 6      | name.com                  |
 | acre.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
 | beast.charity   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.           |
 | atp.charity     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
@@ -84,6 +83,7 @@ print(df.head())
 | bass.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
 | DJI.charity     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
 | belt.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| ego.charity     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
