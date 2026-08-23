@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .charity one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,397 domains · **Median ask:** $10.11 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/charity`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| correct.charity | available | $5.99     | $40.99        | high           | low    | 7      | name.com                  |
-| room.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
-| period.charity  | available | $5.99     | —             | high           | low    | 6      | name.com                  |
-| acre.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
-| beast.charity   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.           |
-| atp.charity     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
-| alky.charity    | available | $5.99     | $40.99        | low            | low    | 4      | name.com                  |
-| hello.charity   | resell    | —         | —             | high           | high   | 5      | NameSilo, LLC             |
-| awe.charity     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
-| avid.charity    | available | $5.99     | $40.99        | medium         | low    | 4      | name.com                  |
-| sweet.charity   | resell    | —         | —             | high           | low    | 5      | Go Australia Domains, LLC |
-| bit.charity     | premium   | $242      | $242          | high           | medium | 3      | namesilo                  |
-| bald.charity    | available | $5.99     | $40.99        | low            | low    | 4      | name.com                  |
-| token.charity   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc               |
-| clv.charity     | premium   | $14.99    | $23.99        | low            | low    | 3      | namesilo                  |
-| band.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
-| cxl.charity     | premium   | $14.99    | $23.99        | low            | low    | 3      | namesilo                  |
-| bass.charity    | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
-| DJI.charity     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
-| belt.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| acre.charity  | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
+| beast.charity | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.           |
+| atp.charity   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
+| alky.charity  | available | $5.99     | $40.99        | low            | low    | 4      | name.com                  |
+| hello.charity | resell    | —         | —             | high           | high   | 5      | NameSilo, LLC             |
+| awe.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
+| avid.charity  | available | $5.99     | $40.99        | medium         | low    | 4      | name.com                  |
+| sweet.charity | resell    | —         | —             | high           | low    | 5      | Go Australia Domains, LLC |
+| bit.charity   | premium   | $242      | $242          | high           | medium | 3      | namesilo                  |
+| bald.charity  | available | $5.99     | $40.99        | low            | low    | 4      | name.com                  |
+| token.charity | resell    | —         | —             | high           | medium | 5      | Dynadot Inc               |
+| clv.charity   | premium   | $14.99    | $23.99        | low            | low    | 3      | namesilo                  |
+| band.charity  | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
+| cxl.charity   | premium   | $14.99    | $23.99        | low            | low    | 3      | namesilo                  |
+| bass.charity  | available | $5.99     | —             | medium         | low    | 4      | name.com                  |
+| DJI.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
+| belt.charity  | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| ego.charity   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                  |
+| bill.charity  | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| Eid.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
