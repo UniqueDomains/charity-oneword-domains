@@ -124,7 +124,7 @@ d3656110-63dc-4058-8812-8612b8a103a9,avellan.charity,available,5.99,40.99,low,lo
 cd2cb75e-d76e-4f2a-9f15-37962f8d4dd6,beast.charity,resell,,,medium,low,5,"Spaceship, Inc.",20/01/2026 23:05,20/01/2027 23:05
 86eae4ad-7202-4566-902c-4b847824f969,humanities.charity,available,5.99,,high,low,10,name.com,,
 8f281b23-dccb-4da8-90dd-86f6b601e5b2,baboonish.charity,available,5.99,40.99,low,low,9,name.com,,
-46f0bb6f-a7fe-439b-b110-098f8b964dcf,nourishing.charity,available,5.99,40.99,high,low,10,name.com,,
+46f0bb6f-a7fe-439b-b110-098f8b964dcf,nourishing.charity,available,7.48,37.98,medium,low,10,namecheap,,
 f63550d6-4273-4afc-9af8-513c108a8b93,mechanic.charity,available,5.99,,medium,low,8,name.com,,
 289cc912-4c79-4c3b-9a2b-d9b1b61d53a7,agronomic.charity,available,5.99,40.99,low,low,9,name.com,,
 35c8a7b1-1887-4c21-88a7-cd8fc753179c,baguette.charity,available,5.99,,high,low,8,name.com,,
@@ -405,7 +405,7 @@ fe6c2e27-285f-4721-aa5e-731e9a63000a,ethical.charity,available,7.48,37.98,medium
 d323409e-1354-47b6-be75-22bd8e117e22,derelict.charity,available,5.99,40.99,high,low,8,name.com,,
 8622d959-9ff6-44e2-88ed-c23c6abd54d4,brightness.charity,available,5.99,,high,low,10,name.com,,
 c07ad80a-70d7-4db1-b6c1-4f3d4e3537aa,fortynine.charity,available,5.99,40.99,low,low,10,name.com,,
-9462ef7b-e285-4309-8a4f-ab05ce61c853,web.charity,premium,242,242,high,medium,3,namesilo,,
+9462ef7b-e285-4309-8a4f-ab05ce61c853,web.charity,premium,242,242,medium,medium,3,namesilo,,
 d6ff968e-1f88-4afa-b351-5dcd15faa8b1,adding.charity,available,5.99,,high,low,6,name.com,,
 55ccf827-ed88-4048-b412-2531d9c72b97,dieselengine.charity,available,5.99,,high,low,13,name.com,,
 fc8110bd-83a1-415c-a51f-2c6f33e930a8,insufficient.charity,available,5.99,,medium,low,12,name.com,,
