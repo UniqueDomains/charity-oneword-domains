@@ -24,11 +24,11 @@ c5b6b8af-f6ff-4ebe-80f3-1fd2bf4782c3,publicised.charity,available,5.99,,medium,l
 19c7c2ce-9528-461d-97df-a5008e32ddf0,ennead.charity,available,5.99,40.99,low,low,6,name.com,,,
 5f4a1be3-51b4-46d3-b144-6e2d9621ce00,critical.charity,available,5.99,40.99,high,low,8,name.com,,,
 64569f6b-f782-496b-8aad-e5ce7ea82438,someother.charity,available,5.99,40.99,low,low,10,name.com,,,
-33d10ac4-1be1-4cf7-bef5-df5b7266e30d,NewChicago.charity,available,5.99,,low,low,11,name.com,,,
+33d10ac4-1be1-4cf7-bef5-df5b7266e30d,newchicago.charity,available,5.99,,low,low,11,name.com,,,
 9346e2fa-fa41-4840-9398-632775de83a4,enlarged.charity,available,5.99,,medium,low,8,name.com,,,
 24093595-89ad-498d-872d-d3ff1018fc79,initially.charity,available,5.99,,medium,low,9,name.com,,,
 93c0549d-b0bf-4bbd-8545-4729d1b42cc2,leadership.charity,available,5.99,,high,low,10,name.com,,,
-e804b57f-1690-491b-83a2-746d9d1a6c56,Rhianna.charity,available,5.99,,high,low,7,name.com,,,
+e804b57f-1690-491b-83a2-746d9d1a6c56,rhianna.charity,available,5.99,,high,low,7,name.com,,,
 d08070ba-ac27-42ff-8ce0-f1971f66be53,anionic.charity,available,5.99,40.99,low,low,7,name.com,,,
 02bc0b48-f8c3-4168-a4e4-13a1f5d36175,nitrous.charity,available,5.99,40.99,low,low,7,name.com,,,08/08/2026 03:03
 b03b1900-6d03-47b5-9da6-c18a763054f9,description.charity,available,5.99,,high,low,11,name.com,,,
@@ -124,7 +124,7 @@ d3656110-63dc-4058-8812-8612b8a103a9,avellan.charity,available,5.99,40.99,low,lo
 cd2cb75e-d76e-4f2a-9f15-37962f8d4dd6,beast.charity,resell,,,medium,low,5,"Spaceship, Inc.",20/01/2026 23:05,20/01/2027 23:05,
 86eae4ad-7202-4566-902c-4b847824f969,humanities.charity,available,5.99,,high,low,10,name.com,,,
 8f281b23-dccb-4da8-90dd-86f6b601e5b2,baboonish.charity,available,5.99,40.99,low,low,9,name.com,,,08/08/2026 03:42
-46f0bb6f-a7fe-439b-b110-098f8b964dcf,nourishing.charity,available,7.48,37.98,medium,low,10,namecheap,,,15/09/2026 02:55
+46f0bb6f-a7fe-439b-b110-098f8b964dcf,nourishing.charity,available,7.48,37.98,medium,low,10,namecheap,,,19/09/2026 17:50
 f63550d6-4273-4afc-9af8-513c108a8b93,mechanic.charity,available,5.99,,medium,low,8,name.com,,,
 289cc912-4c79-4c3b-9a2b-d9b1b61d53a7,agronomic.charity,available,5.99,40.99,low,low,9,name.com,,,
 35c8a7b1-1887-4c21-88a7-cd8fc753179c,baguette.charity,available,5.99,,high,low,8,name.com,,,
@@ -137,8 +137,8 @@ db4742b0-1c21-494f-832e-268b009dcd38,largely.charity,available,5.99,,medium,low,
 3de6934d-a5db-43da-b1fc-76e0dbe07982,yeasty.charity,available,5.99,40.99,low,low,6,name.com,,,08/08/2026 19:56
 e82bbbc8-a145-42d9-be8e-b06bbe5eda2b,ascensive.charity,available,5.99,40.99,low,low,9,name.com,,,07/08/2026 00:46
 fdcff31c-45af-4bf1-8939-6ea6eef92b59,atypical.charity,available,5.99,40.99,medium,low,8,name.com,,,07/08/2026 16:06
-fef60223-61c6-417d-bfc9-96690855effa,distribution.charity,available,7.48,37.98,medium,low,12,namecheap,,,14/09/2026 02:25
-a4eb653c-1334-42f4-84f9-dd6840a74210,film.charity,premium,242,242,high,low,4,namesilo,,,
+fef60223-61c6-417d-bfc9-96690855effa,distribution.charity,available,14.99,23.99,low,low,12,namesilo,,,19/09/2026 09:11
+a4eb653c-1334-42f4-84f9-dd6840a74210,film.charity,premium,242,242,medium,low,4,namesilo,,,19/09/2026 10:37
 2c99e9e1-ccfd-44ec-81c9-aaf598af55d3,alpestrine.charity,available,5.99,40.99,low,low,10,name.com,,,
 ab5711dc-b8f3-4252-9c06-6dfd87f20c2c,acetylic.charity,available,5.99,40.99,low,low,8,name.com,,,
 61814011-0fde-431f-8b80-ae6749545189,aerie.charity,available,5.99,40.99,medium,medium,5,name.com,,,
@@ -173,7 +173,7 @@ edff0e39-4377-48e1-a6d6-f5c7d1b87c7a,bullet.charity,available,5.99,,high,low,6,n
 611ebda7-0fd5-4f75-b738-756d06db7b20,gillless.charity,available,5.99,40.99,low,low,9,name.com,,,
 3bd4e194-f189-453e-be28-db9b7a42cab2,autoecious.charity,available,5.99,40.99,low,low,10,name.com,,,07/08/2026 19:51
 824cd360-e869-44ec-a27e-4d2ff12f4de8,asfaras.charity,available,5.99,,medium,low,9,name.com,,,
-10eba150-963e-4be2-9774-add6179c3d74,DJI.charity,premium,38.94,38.94,high,low,3,namesilo,,,
+10eba150-963e-4be2-9774-add6179c3d74,dji.charity,premium,38.94,38.94,high,low,3,namesilo,,,
 f34c0814-0f8c-4e42-9292-c56154820bb3,warranty.charity,available,5.99,,high,low,8,name.com,,,
 120fd3d0-612c-4a95-99ac-5c81b902c525,alligator.charity,available,5.99,,high,low,9,name.com,,,
 9d0d16d0-2c7d-4789-9cb1-288823efa96d,ametabolic.charity,available,5.99,40.99,low,low,10,name.com,,,
@@ -185,14 +185,14 @@ c5258473-5bc3-46a3-87bd-f17539363135,orca.charity,available,5.99,,high,medium,4,
 899e9cd2-fe52-4578-a006-f3a9a3df3060,whitesnow.charity,available,5.99,,medium,low,10,name.com,,,
 c0406918-372f-4831-b24c-047116d0070e,remotecontrol.charity,available,5.99,,medium,low,14,name.com,,,
 e52194a3-64db-43fa-ab7d-4516d3ca5c4d,gstring.charity,available,5.99,,medium,low,8,name.com,,,
-3901dc21-7218-4e30-aa1b-a7512da5bd1a,Westwood.charity,available,5.99,,low,low,8,name.com,,,
+3901dc21-7218-4e30-aa1b-a7512da5bd1a,westwood.charity,available,5.99,,low,low,8,name.com,,,
 18dedd52-fe5b-4187-bc58-98c65f286e1b,kneedeep.charity,available,5.99,40.99,low,low,9,name.com,,,
 4abd2aa3-696b-496b-967c-821e8e0f383a,split.charity,available,5.99,40.99,medium,low,5,name.com,,,
 c8f96105-f711-4b84-85d9-a551aa915395,knockitoff.charity,available,5.99,,high,low,12,name.com,,,
 08578c21-82ac-4e5c-99c0-7dd1eaed66e6,forestfire.charity,available,5.99,,medium,low,11,name.com,,,
 7e69b104-4126-421e-afab-58364e3243ea,itchy.charity,available,5.99,40.99,low,low,5,name.com,,,05/08/2026 20:43
 499453eb-82a8-413f-af87-bf81cb52e4db,despite.charity,available,5.99,,high,low,7,name.com,,,
-6578b4d2-dac7-45d0-a655-cc422a5f56d6,Liam.charity,available,5.99,,high,low,4,name.com,,,
+6578b4d2-dac7-45d0-a655-cc422a5f56d6,liam.charity,available,5.99,,high,low,4,name.com,,,
 3f83f1c7-9bc1-43d4-b243-0c72693e1761,breakoutroom.charity,available,5.99,,medium,low,13,name.com,,,
 7e672d8d-4b68-4536-bc10-f772f2bc32a7,computerliterate.charity,available,5.99,,high,low,17,name.com,,,
 969d89ca-f789-4e1a-888c-9bc8893c5650,amort.charity,available,5.99,40.99,low,low,5,name.com,,,
@@ -243,14 +243,15 @@ d13293ee-ef6c-48ea-bb55-1df28720c376,wiz.charity,premium,41.25,41.25,high,low,3,
 656143cc-0dfe-428b-97e6-66083dcf251b,discomfort.charity,available,5.99,,high,low,10,name.com,,,
 00383448-76a1-4c21-a370-bc16a8932621,countryoforigin.charity,available,5.99,,medium,low,17,name.com,,,
 369d52ef-9d4d-4757-93c3-f5d3254b4dda,goodrun.charity,available,5.99,,high,low,8,name.com,,,
-a788cbfa-ca55-481f-b352-b47f55649a81,tooth.charity,available,5.99,40.99,low,low,5,name.com,,,15/09/2026 03:57
+a788cbfa-ca55-481f-b352-b47f55649a81,tooth.charity,available,7.48,37.98,low,low,5,namecheap,,,19/09/2026 18:20
 8c8a1f3c-0b86-47a2-9397-da1bac1efef4,baseless.charity,available,5.99,40.99,low,low,8,name.com,,,08/08/2026 21:44
 f732cdaf-eaab-4519-ad10-a7000b002d75,shortfall.charity,available,5.99,,medium,low,9,name.com,,,
 41ca7710-6bba-4b54-b7ea-c2afeaef7078,manyisthetime.charity,available,5.99,,medium,low,16,name.com,,,
 a430c569-d03d-4c04-8c1c-41cdb26b964f,sing.charity,available,5.99,,high,low,4,name.com,,,
 eea911e0-8795-41b8-b1a7-ec183369a3da,credible.charity,available,5.99,40.99,low,low,8,name.com,,,09/08/2026 12:56
-5b1b4ce0-1976-4bbc-8597-24518a425315,TraverseCity.charity,available,5.99,,low,low,13,name.com,,,
-1c9fe866-1dc1-4933-9113-0740c06c96e4,Duracell.charity,available,5.99,,high,low,8,name.com,,,
+5b1b4ce0-1976-4bbc-8597-24518a425315,traversecity.charity,available,5.99,,low,low,13,name.com,,,
+1c9fe866-1dc1-4933-9113-0740c06c96e4,duracell.charity,available,5.99,,high,low,8,name.com,,,
+5025573b-0155-4c14-bcac-2c632748d4f3,video.charity,available,14.99,23.99,medium,low,5,namesilo,,,19/09/2026 06:19
 f265461c-acdf-47dd-9da7-34793b3a0f77,pricetag.charity,available,5.99,,medium,low,9,name.com,,,
 42700f33-2c03-4e40-b250-574661b4be0f,makelove.charity,available,5.99,,high,low,9,name.com,,,
 ab599310-0523-49ac-986e-d173b327b527,shadow.charity,available,5.99,,medium,low,6,name.com,,,
@@ -267,7 +268,7 @@ bbaa8010-ed01-451a-aeaf-1520f9f35bb5,shed.charity,available,5.99,,medium,low,4,n
 0b113357-b749-4873-b6eb-fa6f3276cdff,fighting.charity,available,5.99,,medium,low,8,name.com,,,
 2cf88362-68a7-4eb9-b62e-2028587ba863,shoe.charity,available,5.99,,high,low,4,name.com,,,
 0965e588-c72b-48f5-a44d-59016261ec33,twenty.charity,available,5.99,40.99,high,low,6,name.com,,,
-a9af6154-adfa-44e6-ab33-70e31f81fca9,StClair.charity,available,5.99,,medium,low,9,name.com,,,
+a9af6154-adfa-44e6-ab33-70e31f81fca9,stclair.charity,available,5.99,,medium,low,9,name.com,,,
 db74d33d-99ea-4c5a-b29f-bb87a4d5df16,destructive.charity,available,5.99,,medium,low,11,name.com,,,
 6a2576ae-d8d3-42c3-b9ce-af0bbc812002,recoveredmemory.charity,available,5.99,,high,low,16,name.com,,,
 fae8c542-b433-4354-9a41-c378f698f4cc,moneylaundering.charity,available,5.99,,medium,low,16,name.com,,,
@@ -304,7 +305,7 @@ acf6b991-b0d7-49cd-9f0a-5cd4d9084360,pontifical.charity,available,5.99,40.99,low
 2a8e3a35-ffb6-49f7-8a8a-b87cb59bd5c9,dollar.charity,available,5.99,,high,low,6,name.com,,,
 f0507bd6-de6b-4284-9d71-619842a94703,rhythmic.charity,available,5.99,,medium,low,8,name.com,,,
 1c870e8b-5043-438e-bcfb-6a384173bc3b,bastioned.charity,available,5.99,40.99,low,low,9,name.com,,,09/08/2026 00:12
-db3ac67f-851a-4d39-b436-efca6edcb5c9,Flowers.charity,available,5.99,,high,medium,7,name.com,,,
+db3ac67f-851a-4d39-b436-efca6edcb5c9,flowers.charity,available,5.99,,high,medium,7,name.com,,,
 5cc06853-2562-47bb-8aab-833e96a11542,bass.charity,available,5.99,,medium,low,4,name.com,,,
 017543be-1853-4f73-8a48-fbf1cfdbf0f2,clever.charity,available,5.99,,high,low,6,name.com,,,
 991ea7df-4d44-4978-95f3-1103250655b3,compactcamera.charity,available,5.99,,high,low,14,name.com,,,
@@ -351,7 +352,7 @@ b64fd5bb-2afa-4c06-b8c0-2862c0f0efe6,chairwoman.charity,available,5.99,,medium,l
 d05f3426-3151-4add-97f7-b4a74bc1f019,territory.charity,available,5.99,,high,low,9,name.com,,,
 d2405b3c-64bc-440f-a956-3951d0993152,appeal.charity,available,5.99,,high,low,6,name.com,,,
 8b39f03f-1a06-492b-af90-d02dab026a7d,onthebubble.charity,available,5.99,,medium,low,13,name.com,,,
-3b1fe69c-292d-4a46-8eca-44758b82e2d3,Martha.charity,available,5.99,,high,low,6,name.com,,,
+3b1fe69c-292d-4a46-8eca-44758b82e2d3,martha.charity,available,5.99,,high,low,6,name.com,,,
 d8bbf5e4-af39-4af5-ad01-3b97de9c21d1,nude.charity,available,5.99,40.99,medium,low,4,name.com,,,07/08/2026 16:15
 b766da54-64d2-40e7-9feb-614f3110cbc9,sophisticated.charity,available,5.99,,high,low,13,name.com,,,
 f3f76000-9cf0-4746-8bc2-b0db3fbee559,aroid.charity,available,5.99,40.99,low,low,5,name.com,,,06/08/2026 11:30
@@ -362,11 +363,11 @@ de8e2089-0124-4791-b430-2863ceca9a35,hannukah.charity,available,5.99,,medium,low
 e1c3571e-de19-40bb-bc32-857d5145830d,pickuptruck.charity,available,14.99,23.99,low,low,13,namesilo,,,17/09/2026 14:44
 edea1eef-776f-4e04-ab69-d901175995ff,ofcolor.charity,available,5.99,,low,low,8,name.com,,,
 683e184f-f94d-4a17-b3c3-7b47b8ad5c4d,escaped.charity,available,5.99,40.99,low,low,7,name.com,,,07/08/2026 11:22
-110a0cc9-7c2d-4a79-819c-a75099a51fbc,sweetFA.charity,available,5.99,,low,low,8,name.com,,,
+110a0cc9-7c2d-4a79-819c-a75099a51fbc,sweetfa.charity,available,5.99,,low,low,8,name.com,,,
 f2443a71-a32d-46d4-9bc6-9b51ba67c0cc,antiacid.charity,available,5.99,,high,low,8,name.com,,,
 1b03a702-354b-487a-b118-c2018b5bfa86,abounding.charity,available,5.99,40.99,low,low,9,name.com,,,
 4842fd96-4f04-4dfa-b86b-21be3bcd43e1,musical.charity,available,5.99,,high,low,7,name.com,,,
-815d7256-9a2e-4895-9474-7df70c744157,Christmascarol.charity,available,5.99,,high,low,15,name.com,,,
+815d7256-9a2e-4895-9474-7df70c744157,christmascarol.charity,available,5.99,,high,low,15,name.com,,,
 c645d9b8-10d8-44b8-a571-eb85a59eae8e,whole.charity,available,5.99,40.99,high,low,5,name.com,,,
 ae0e2314-3677-4511-989e-c1bc2a4f2c50,belt.charity,available,5.99,,high,low,4,name.com,,,
 a7b7b5e1-7cd0-4cb8-bd4f-76f07ede836d,awe.charity,premium,38.94,38.94,high,low,3,namesilo,,,
@@ -401,11 +402,11 @@ df9fbdd3-dd91-44d5-a334-b0146653e30e,express.charity,available,5.99,,high,low,7,
 09661073-6b80-4bcf-aca4-65852a7a76ee,lunch.charity,available,5.99,,high,low,5,name.com,,,
 0b79284f-90a2-4b80-807d-3bb5ceea0380,acetabular.charity,available,5.99,40.99,low,low,10,name.com,,,
 aefc77d7-1814-4c3d-89d5-8a43c02ffe62,aired.charity,available,5.99,40.99,low,low,5,name.com,,,
-fe6c2e27-285f-4721-aa5e-731e9a63000a,ethical.charity,available,7.48,37.98,medium,low,7,namecheap,,,12/09/2026 03:38
+fe6c2e27-285f-4721-aa5e-731e9a63000a,ethical.charity,available,14.99,23.99,medium,low,7,namesilo,,,19/09/2026 14:49
 d323409e-1354-47b6-be75-22bd8e117e22,derelict.charity,available,5.99,40.99,high,low,8,name.com,,,
 8622d959-9ff6-44e2-88ed-c23c6abd54d4,brightness.charity,available,5.99,,high,low,10,name.com,,,
 c07ad80a-70d7-4db1-b6c1-4f3d4e3537aa,fortynine.charity,available,5.99,40.99,low,low,10,name.com,,,
-9462ef7b-e285-4309-8a4f-ab05ce61c853,web.charity,premium,242,242,medium,medium,3,namesilo,,,15/09/2026 03:44
+9462ef7b-e285-4309-8a4f-ab05ce61c853,web.charity,premium,260,260,low,low,3,namecheap,,,19/09/2026 18:14
 d6ff968e-1f88-4afa-b351-5dcd15faa8b1,adding.charity,available,5.99,,high,low,6,name.com,,,
 55ccf827-ed88-4048-b412-2531d9c72b97,dieselengine.charity,available,5.99,,high,low,13,name.com,,,
 fc8110bd-83a1-415c-a51f-2c6f33e930a8,insufficient.charity,available,5.99,,medium,low,12,name.com,,,
@@ -414,7 +415,7 @@ d42085e4-0b80-4b1c-ae3c-76b72e78816d,bigger.charity,available,5.99,,high,low,6,n
 1d5f6a25-dd4c-40d5-93e7-e719fc73c0c0,whitesatin.charity,available,5.99,,low,low,11,name.com,,,
 c777a405-b8d0-4cc3-9fc2-3b47074e29f4,satisfy.charity,available,5.99,,high,low,7,name.com,,,
 c3b2fcda-6c6d-4024-9c6b-0f25dbeaaaa5,torn.charity,available,5.99,,medium,low,4,name.com,,,
-0189c0cd-3a92-4e2f-b3df-49962d7f0977,businessman.charity,available,5.99,40.99,medium,low,11,name.com,,,15/09/2026 06:07
+0189c0cd-3a92-4e2f-b3df-49962d7f0977,businessman.charity,available,7.48,37.98,medium,low,11,namecheap,,,19/09/2026 04:56
 0d2c7dfa-4edb-40c0-bf76-983297250cae,asthecrowflies.charity,available,5.99,,medium,low,17,name.com,,,
 adadb7ce-496e-47b2-b0c4-b4cf007a28a8,kamikaze.charity,available,5.99,,high,low,8,name.com,,,
 3fe74a2b-1c01-4649-a1f0-3656d48a2042,putacross.charity,available,5.99,,high,low,10,name.com,,,
@@ -423,7 +424,7 @@ af65f0cd-5b7d-472e-a887-5fa5e8793fc9,hello.charity,resell,,,high,high,5,"NameSil
 5553750d-a20a-4c70-b50e-a5ad98dd6d17,flush.charity,available,5.99,40.99,medium,low,5,name.com,,,
 a301b216-f50d-48bb-9675-cbcfd7025b1f,flack.charity,available,5.99,40.99,low,low,5,name.com,,,
 38b26ae7-8e88-43d2-946c-6a5b9e7085b8,adaptive.charity,available,5.99,40.99,high,low,8,name.com,,,
-43df1e42-0ab7-4720-8a1b-5713d52bbe8b,WestBranch.charity,available,5.99,,low,low,11,name.com,,,
+43df1e42-0ab7-4720-8a1b-5713d52bbe8b,westbranch.charity,available,5.99,,low,low,11,name.com,,,
 29589814-1f2a-4b80-82d4-e4078c3a92b6,heel.charity,available,5.99,,medium,low,4,name.com,,,
 e301e750-69d7-426d-abc4-01dadeed6b51,manageable.charity,available,5.99,40.99,high,low,10,name.com,,,
 c08583e5-0e18-4ad9-92be-000d464a6661,teal.charity,available,5.99,,high,low,4,name.com,,,
@@ -456,7 +457,7 @@ ecbe3eca-7eea-4e20-8547-07562c4787f9,rebellion.charity,available,5.99,,medium,lo
 9f70d73e-8980-43df-8f19-bb6796ec3dce,enwrapped.charity,available,5.99,40.99,low,low,9,name.com,,,
 02d017e2-6570-4074-a226-9f37cf181f37,hover.charity,available,5.99,,medium,low,5,name.com,,,
 74562721-7a67-436f-ada2-307876aa4554,forty.charity,available,,,high,low,5,,,,
-faa72cc4-4c84-465e-b827-7a17fa566415,buffet.charity,available,7.48,37.98,medium,low,6,namecheap,,,14/09/2026 03:26
+faa72cc4-4c84-465e-b827-7a17fa566415,buffet.charity,available,7.48,37.98,medium,low,6,namecheap,,,19/09/2026 17:05
 a4180074-af12-4e1a-93a1-67692bab45ce,attention.charity,available,5.99,,high,low,9,name.com,,,
 14046b8a-2251-4399-bc47-decb93b443a9,sloth.charity,available,5.99,,high,low,5,name.com,,,
 2f5b2b53-3174-4496-8cf3-5b88bbc1f8f5,retirement.charity,available,5.99,,high,low,10,name.com,,,
@@ -471,7 +472,7 @@ ecec556c-4e8f-4a16-a78f-bd508f6fc5be,apostate.charity,available,5.99,40.99,low,l
 830be4da-c154-4628-ae97-ecf2a3431f26,playitsafe.charity,available,5.99,,medium,low,12,name.com,,,
 bcdac713-2951-4116-9aef-5c69f497134d,hardcider.charity,available,5.99,,high,low,10,name.com,,,
 8c995d08-125c-4e9f-9124-0bcd1449ea27,lap.charity,premium,38.94,38.94,high,low,3,namesilo,,,
-b71c1b54-0c5e-4a4d-86cc-990348688f93,StAugustine.charity,available,5.99,,medium,low,13,name.com,,,
+b71c1b54-0c5e-4a4d-86cc-990348688f93,staugustine.charity,available,5.99,,medium,low,13,name.com,,,
 924556b6-a651-487f-bd7d-b043ed1f17df,briefingnote.charity,available,5.99,,high,low,13,name.com,,,
 a24746ce-b95c-4d4b-8390-ff659be2a213,youth.charity,available,5.99,,high,low,5,name.com,,,
 73d60b56-7fda-4d4b-9869-66b252725b0c,assure.charity,available,5.99,,high,low,6,name.com,,,
@@ -559,7 +560,7 @@ b2aa6775-9a4e-43c7-9560-fdc9ea127fcd,sharpeyed.charity,available,5.99,40.99,low,
 a07b9593-e69a-437d-9c0c-dba0eba1598c,cxl.charity,premium,14.99,23.99,low,low,3,namesilo,,,
 a4ded9ce-bc8c-440e-97fb-81860e328ccc,who.charity,available,,,medium,low,3,,,,
 886a3f74-da8e-48c4-829f-3be43ca69894,behave.charity,available,5.99,,high,low,6,name.com,,,
-5be594ff-c7d4-4cc8-96c3-fbb9def1faef,SouthAmerican.charity,available,5.99,,low,low,14,name.com,,,
+5be594ff-c7d4-4cc8-96c3-fbb9def1faef,southamerican.charity,available,5.99,,low,low,14,name.com,,,
 82361162-c7c6-407f-8488-d0f6f60b0af9,blackmailing.charity,available,5.99,,medium,low,12,name.com,,,
 c298c925-617d-4f78-86a1-f5425775259b,room.charity,available,7.48,37.98,medium,low,4,namecheap,,,08/09/2026 08:37
 dc5ad0a3-ada2-454a-bbe2-7d35b3da2e0e,enviable.charity,available,5.99,,high,low,8,name.com,,,
@@ -573,13 +574,13 @@ d43412b1-51b6-4690-8894-21e054374ba3,winner.charity,available,5.99,,high,low,6,n
 3ee98ab3-a0d1-488b-bb05-304efc838978,hoops.charity,available,5.99,,high,low,5,name.com,,,
 00ea7ab9-416d-407e-ae3a-c6c366b33979,draggled.charity,available,5.99,40.99,low,low,8,name.com,,,09/08/2026 07:33
 bba35614-41e9-446d-8ba9-352184780b50,anaphasic.charity,available,5.99,40.99,low,low,9,name.com,,,
-04e33f5e-b31e-4276-96de-69bc75faacc4,system.charity,available,7.48,37.98,medium,medium,6,namecheap,,,13/09/2026 19:53
+04e33f5e-b31e-4276-96de-69bc75faacc4,system.charity,available,7.48,37.98,medium,low,6,namecheap,,,19/09/2026 08:26
 787ef4b5-40eb-45c9-8e6d-de8a7d2c4088,abide.charity,available,5.99,,high,low,5,name.com,,,
 b7df4e3b-4c1e-4162-8ce6-ed75708eba27,andante.charity,available,5.99,40.99,low,low,7,name.com,,,
 7f646b71-c66a-4f6f-abf6-23d0368911c1,insect.charity,available,5.99,,medium,low,6,name.com,,,
 1fd1c552-ffce-4fd9-903f-8dcfc132fe10,intheworstway.charity,available,5.99,,medium,low,16,name.com,,,
 91063d68-7fab-494d-a234-c22e2f1b1eb5,currently.charity,available,5.99,,medium,low,9,name.com,,,
-69c7f793-8707-44ef-ad5f-0c611eb7169c,trade.charity,available,5.99,,high,medium,5,name.com,,,
+69c7f793-8707-44ef-ad5f-0c611eb7169c,trade.charity,available,14.99,23.99,medium,low,5,namesilo,,,19/09/2026 03:40
 8baf0c5a-42ca-48a6-84cc-e2ca9772fa1e,pace.charity,available,5.99,,medium,low,4,name.com,,,
 880b158b-696e-40cc-b570-5681c4fb8707,allyoucaneat.charity,available,5.99,,high,low,15,name.com,,,
 d15d150e-018d-4501-bb33-f5425ecc97da,sweetdreams.charity,available,5.99,,low,low,12,name.com,,,
@@ -590,7 +591,7 @@ b0bdec94-005b-4a0b-a18a-c7a101f50acc,quantity.charity,available,5.99,,medium,low
 0f3517f0-e5ba-462f-877e-dca48a727469,separate.charity,available,5.99,40.99,high,low,8,name.com,,,
 9cd544e1-120e-40cf-ac8c-1742ce5b6be8,barring.charity,available,5.99,,medium,low,7,name.com,,,
 175f091d-880e-4d0b-9e1f-cf63057d60f1,subalpine.charity,available,5.99,40.99,low,low,9,name.com,,,
-282bbc67-4e4c-4668-afd0-7a9a637ffc39,BigMac.charity,available,5.99,,high,low,7,name.com,,,
+282bbc67-4e4c-4668-afd0-7a9a637ffc39,bigmac.charity,available,5.99,,high,low,7,name.com,,,
 220a4b6b-7aa9-4bcf-9f73-cb93cb1c3c9c,shrub.charity,available,5.99,,medium,low,5,name.com,,,
 eb1d02db-2a76-485a-a731-0191bde84366,skin.charity,premium,242,242,high,low,4,namesilo,,,
 49d18f2b-9368-4d46-abae-8790f833c140,specific.charity,available,5.99,,high,low,8,name.com,,,
@@ -613,7 +614,7 @@ b0796d77-2b34-4d49-b94e-a867339a19ea,beguiling.charity,available,5.99,40.99,high
 8c4dc563-1f6c-44af-9694-9060f9ef29ab,artwork.charity,available,5.99,,high,low,7,name.com,,,
 dd726077-b609-46d2-a2ea-c6207b4ab9e1,exaggerate.charity,available,5.99,,high,low,10,name.com,,,
 7fe0c5d2-deaa-49d0-9ff7-d221665ff9f5,articulate.charity,available,5.99,,high,low,10,name.com,,,
-c412f7e3-464e-4a0f-821c-83578a888786,FannyAdams.charity,available,5.99,,medium,low,11,name.com,,,
+c412f7e3-464e-4a0f-821c-83578a888786,fannyadams.charity,available,5.99,,medium,low,11,name.com,,,
 1d704f72-0315-44d2-a0a2-e7efddbc5c5e,beaklike.charity,available,5.99,40.99,low,low,8,name.com,,,09/08/2026 03:59
 776898ec-2cdf-4026-941d-45510c1c03ad,rested.charity,available,5.99,,high,low,6,name.com,,,
 82408572-145c-4677-bd8d-6d7f03f753a6,alaska.charity,premium,242,242,high,low,6,namesilo,,,
@@ -637,7 +638,7 @@ bcee8808-4e34-49c6-983b-e3d5ce4263b1,aperiodic.charity,available,5.99,40.99,low,
 69865a44-9872-4893-a67c-f90c6e486d74,divide.charity,available,5.99,,high,low,6,name.com,,,
 8040f1f4-eb8f-4837-b36f-eafc25afe003,anabolic.charity,available,5.99,40.99,low,low,8,name.com,,,
 fb484922-85ea-4cc9-b858-ff83938738a2,chiseling.charity,available,5.99,,medium,low,9,name.com,,,
-2f79d886-b421-4b8c-b8f4-6658040ef4cd,invoice.charity,available,5.99,,medium,low,8,name.com,,,
+2f79d886-b421-4b8c-b8f4-6658040ef4cd,invoice.charity,available,14.99,23.99,medium,low,8,namesilo,,,20/09/2026 02:32
 3afa5cc7-1065-442b-aaf7-973313aa551e,solarsystem.charity,available,5.99,,medium,low,12,name.com,,,
 494e5d1f-23fb-4469-bce7-4907f9065ca8,incidence.charity,available,5.99,,medium,low,9,name.com,,,
 3c8991b4-0de9-456d-bf18-4ec77e5d7f00,elsewhere.charity,available,5.99,,high,low,9,name.com,,,
@@ -647,7 +648,6 @@ d8e78747-ac8e-4e9d-aa07-17169c03efbe,curl.charity,available,5.99,,medium,low,4,n
 c3a13db5-82be-4e07-b112-6c0a4f7d7c6b,believeyoume.charity,available,5.99,,medium,low,14,name.com,,,
 276fbf61-1175-4961-906a-756a7f44b134,hommalirice.charity,available,5.99,,high,low,13,name.com,,,
 ca104cdd-ddc0-4167-a0e9-8b2c1d3da40e,bit.charity,premium,242,242,high,medium,3,namesilo,,,
-d20d06c9-0baf-4dd8-a023-a7c60ef51932,sweet.charity,resell,,,high,low,5,"Go Australia Domains, LLC",19/09/2018 16:00,19/09/2026 16:00,
 8895113c-0dcf-4728-ab23-7f11d35fea6c,incidental.charity,available,5.99,40.99,low,low,10,name.com,,,
 7ea18e3f-76b8-44e7-b2ff-525d5062b8db,hub.charity,premium,38.94,38.94,high,medium,3,namesilo,,,
 73a1bfde-8cd0-4024-9b1b-5746d6e7de46,week.charity,available,5.99,,high,low,4,name.com,,,
@@ -659,10 +659,10 @@ d20d06c9-0baf-4dd8-a023-a7c60ef51932,sweet.charity,resell,,,high,low,5,"Go Austr
 75f65982-ba81-41d9-88d5-efd222679316,shelf.charity,available,5.99,,high,low,5,name.com,,,
 92ce0629-479c-40a6-a8c3-e47249e9e21e,penis.charity,available,5.99,,medium,low,5,name.com,,,
 5c165529-f11e-43dc-a07c-05d27553ceac,placed.charity,available,5.99,,medium,low,6,name.com,,,
-0789ba33-f0aa-47e1-9f02-1c32c5985e72,Franks.charity,available,5.99,,medium,low,6,name.com,,,
+0789ba33-f0aa-47e1-9f02-1c32c5985e72,franks.charity,available,5.99,,medium,low,6,name.com,,,
 fef5ccbc-76c2-4b49-9faf-39e7eaed0355,teaplant.charity,available,5.99,,high,low,9,name.com,,,
 3390fc8d-d263-4e66-84ce-71ac5c22001c,lafayette.charity,premium,118.8,118.8,medium,low,9,namesilo,,,
-3292f8d2-11cf-439e-b72c-ecf326d909e5,Eid.charity,premium,38.94,38.94,high,low,3,namesilo,,,
+3292f8d2-11cf-439e-b72c-ecf326d909e5,eid.charity,premium,38.94,38.94,high,low,3,namesilo,,,
 88dc3028-1a7d-4b09-ba55-a84b23aaae19,browse.charity,available,5.99,,high,low,6,name.com,,,
 76cdd923-37c6-4201-8298-b49e665dd3df,eyry.charity,available,5.99,40.99,low,low,4,name.com,,,
 5796a3bf-b617-42b1-bc58-b40d76b2a2bc,bonus.charity,available,5.99,,high,low,5,name.com,,,
@@ -672,9 +672,9 @@ accd510e-69ca-4527-8b87-dd8f0224e7e0,appetent.charity,available,5.99,40.99,low,l
 3ff0b296-c5c3-4971-92aa-bdfa7b1e1103,forum.charity,available,5.99,,high,low,5,name.com,,,
 0f25daf8-aefe-49a8-b34f-dabbd0787905,spoof.charity,available,5.99,,high,low,5,name.com,,,
 75331f31-52f8-465d-a014-82f533d6b443,sisterinlaw.charity,available,5.99,,low,low,13,name.com,,,
-cbfa1b2c-bfdd-49e1-90db-477bfb2c2d1a,Christianname.charity,available,5.99,,high,low,14,name.com,,,
+cbfa1b2c-bfdd-49e1-90db-477bfb2c2d1a,christianname.charity,available,5.99,,high,low,14,name.com,,,
 4b2689ed-4f81-4c59-a0b2-e9b6d17c6c11,auroral.charity,available,5.99,,high,low,7,name.com,,,
-72ef7fe1-d928-4e2c-8c81-3f9fa9955847,GreenPark.charity,available,5.99,,medium,low,10,name.com,,,
+72ef7fe1-d928-4e2c-8c81-3f9fa9955847,greenpark.charity,available,5.99,,medium,low,10,name.com,,,
 066f958a-9f7a-491f-91d6-40d8faadbc7c,inthedistance.charity,available,5.99,,medium,low,15,name.com,,,
 cb40c70c-f6c5-4679-a7b2-b2d5ad719115,taxswap.charity,available,5.99,,medium,low,8,name.com,,,
 931d3e2e-d630-4d55-9e13-0c1d54acebf3,pernicious.charity,available,5.99,40.99,low,low,10,name.com,,,08/08/2026 12:01
@@ -689,7 +689,7 @@ e89d8157-cfd7-42cd-95d6-40649d40f44f,stick.charity,available,5.99,,high,low,5,na
 f2f15e5d-6ead-4ac3-a3e4-fb7a3a432756,atsea.charity,available,5.99,40.99,low,low,6,name.com,,,07/08/2026 12:16
 19464b95-d13a-4d80-8708-371a785e3a88,band.charity,available,5.99,,medium,low,4,name.com,,,
 e3f862f8-9e05-481d-8072-df187c2bf761,onsale.charity,available,5.99,,low,low,7,name.com,,,
-b3b0be6a-3ec7-4792-a41c-4884eada8ab0,SouthKorea.charity,available,5.99,,low,low,11,name.com,,,
+b3b0be6a-3ec7-4792-a41c-4884eada8ab0,southkorea.charity,available,5.99,,low,low,11,name.com,,,
 9e9cb438-0bb9-4c16-84a2-127f4ba593c0,greenbuilding.charity,available,5.99,,high,low,14,name.com,,,
 7352f4bd-e029-410b-b01d-3c8f85af99ce,youall.charity,available,5.99,,medium,low,7,name.com,,,
 62a76604-d380-4672-9d83-874ec4fde936,england.charity,available,5.99,,high,low,7,name.com,,,
@@ -699,7 +699,7 @@ b3b0be6a-3ec7-4792-a41c-4884eada8ab0,SouthKorea.charity,available,5.99,,low,low,
 0a828d5d-afb9-4a0b-9a56-6b2813c81a0b,unlimited.charity,available,5.99,,high,low,9,name.com,,,
 f0d60844-fb69-45b8-ae89-847f83947d5a,howgoesit.charity,available,5.99,,medium,low,11,name.com,,,
 5daade3f-6834-4103-bd04-b5955c87ac9c,atthebestoftimes.charity,available,5.99,,high,low,20,name.com,,,
-ecaf5507-dfa6-4356-8032-58ba721f0703,Citibank.charity,available,5.99,,high,medium,8,name.com,,,
+ecaf5507-dfa6-4356-8032-58ba721f0703,citibank.charity,available,5.99,,high,medium,8,name.com,,,
 0cc71d06-608f-446f-982d-d84670489377,giveahoot.charity,available,5.99,,high,low,11,name.com,,,
 314532c1-ee00-44a1-b3cc-a65a29e8911a,slam.charity,available,5.99,,high,low,4,name.com,,,
 92844247-6849-4e5c-930c-4f3fa166394e,clothingbin.charity,available,5.99,,medium,low,12,name.com,,,
@@ -740,7 +740,7 @@ c7c1756d-2154-4dd4-acd2-5597344414db,lookback.charity,available,5.99,,high,low,9
 cfd9d141-3c81-407e-a597-a047c147bd00,fill.charity,available,5.99,,medium,low,4,name.com,,,
 93f56b22-8725-41ae-a51b-2113d5057508,authorized.charity,available,5.99,,high,low,10,name.com,,,
 8ac83e3e-57e0-4a82-8915-0ef590c66b7f,caring.charity,available,5.99,,high,low,6,name.com,,,
-2b0611de-1baf-4787-8977-c6a8edfb4071,Jody.charity,available,5.99,,high,low,4,name.com,,,
+2b0611de-1baf-4787-8977-c6a8edfb4071,jody.charity,available,5.99,,high,low,4,name.com,,,
 702e75a2-cc05-4027-abec-dbee0de23015,upstart.charity,available,5.99,,high,low,7,name.com,,,
 2f8aa095-211e-4389-854a-d1b4e7393684,alkalotic.charity,available,5.99,40.99,low,low,9,name.com,,,
 c192520d-5776-4d16-a281-883a29ce167f,dispatching.charity,available,5.99,,medium,low,11,name.com,,,
@@ -762,8 +762,8 @@ f7585ca3-b533-4b67-a752-b6c31a683fae,gripping.charity,available,5.99,40.99,high,
 90bf767f-e69c-47cb-b9f2-04a99d41f4c3,cotyloid.charity,available,5.99,40.99,low,low,8,name.com,,,
 17b80022-a317-49dd-ab2b-2bd715e68b9f,aggregated.charity,available,5.99,40.99,low,low,10,name.com,,,
 bf155371-29fb-47a7-b074-c5fbf48b2508,beautifully.charity,available,5.99,,medium,low,11,name.com,,,
-60728f38-01ed-4749-95c0-4a915bfd6cf9,Iwould.charity,available,5.99,,medium,low,7,name.com,,,
-eeb65c33-3472-4ea5-a662-8434a2237174,NewTestament.charity,available,5.99,,low,low,13,name.com,,,
+60728f38-01ed-4749-95c0-4a915bfd6cf9,iwould.charity,available,5.99,,medium,low,7,name.com,,,
+eeb65c33-3472-4ea5-a662-8434a2237174,newtestament.charity,available,5.99,,low,low,13,name.com,,,
 8359a283-1636-425a-8a34-f3f660966939,chestnut.charity,available,5.99,,medium,low,8,name.com,,,
 7a7d524a-bc6b-4a15-adbc-4f112646a413,agaze.charity,available,5.99,40.99,low,low,5,name.com,,,
 6e28c0d2-cf19-412e-b112-e3725be7d671,riverotter.charity,available,5.99,,high,low,11,name.com,,,
@@ -800,7 +800,7 @@ c8c3c9f8-a325-4b26-82a3-71efc27a59f7,sick.charity,available,5.99,,medium,low,4,n
 4b4b8735-e6c8-4149-8e28-775dc0f79c20,ivy.charity,premium,38.94,38.94,high,low,3,namesilo,,,
 e8879ced-88f0-46df-b734-9766f0c2b8d8,pokeabout.charity,available,5.99,,low,low,10,name.com,,,
 cd8f1144-8a0f-4b95-a334-cff4f8cf3acc,burned.charity,available,5.99,,medium,low,6,name.com,,,
-cef4414f-da2f-4fcf-93f2-408c655eefc6,Englishmuffin.charity,available,5.99,,high,low,14,name.com,,,
+cef4414f-da2f-4fcf-93f2-408c655eefc6,englishmuffin.charity,available,5.99,,high,low,14,name.com,,,
 fbfb6fac-0b77-48cf-b4ea-f054bf71f6ae,trafficlights.charity,available,5.99,,low,low,14,name.com,,,
 5bc7415a-b22d-485f-98af-aeecadcc5270,sortof.charity,available,5.99,,medium,low,7,name.com,,,
 cfbcb297-ef18-4afc-a0b0-18c19f405252,briefs.charity,available,5.99,,high,low,6,name.com,,,
@@ -809,7 +809,7 @@ cfbcb297-ef18-4afc-a0b0-18c19f405252,briefs.charity,available,5.99,,high,low,6,n
 1d8e546c-8aa2-4269-9b55-21b8d0c559fb,steer.charity,available,5.99,,medium,low,5,name.com,,,
 8a243781-ceae-4e64-8cf3-aa7bee5d1f84,order.charity,available,5.99,40.99,high,medium,5,name.com,,,
 2d873419-1dc8-4d6b-afef-7b08b600659c,aboveground.charity,available,5.99,,medium,low,12,name.com,,,
-f374033a-7f56-43ee-83f5-e8dac5b4c963,SouthAmerica.charity,available,5.99,,low,low,13,name.com,,,
+f374033a-7f56-43ee-83f5-e8dac5b4c963,southamerica.charity,available,5.99,,low,low,13,name.com,,,
 757188f9-549a-42c6-a833-ff03597d493e,basics.charity,available,5.99,,high,low,6,name.com,,,
 550b355d-f138-40f4-87ec-f53140c9222a,transmit.charity,available,5.99,,medium,low,8,name.com,,,
 6957f28f-807f-4348-914e-2862eeff1741,introduce.charity,available,5.99,,high,low,9,name.com,,,
@@ -819,7 +819,7 @@ f374033a-7f56-43ee-83f5-e8dac5b4c963,SouthAmerica.charity,available,5.99,,low,lo
 c15374dd-5ccf-4aa6-af05-28082a914bf9,context.charity,available,5.99,,high,medium,7,name.com,,,
 94933d2b-0ccb-471c-bdc2-c2497309156f,apparel.charity,available,5.99,,high,low,7,name.com,,,
 da07232a-726a-4be4-9ad9-e83927702246,aerobic.charity,available,5.99,40.99,high,low,7,name.com,,,
-c8227c0d-0b59-48c8-bcaf-cabd087dcf9b,Frenchrice.charity,available,5.99,,high,low,11,name.com,,,
+c8227c0d-0b59-48c8-bcaf-cabd087dcf9b,frenchrice.charity,available,5.99,,high,low,11,name.com,,,
 3bc52830-c5c1-4721-8fd8-a84dbfcdfe63,lettertelegram.charity,available,5.99,,medium,low,15,name.com,,,
 541b7fe7-f6bd-4e1b-82d5-27d5464e2d20,bald.charity,available,5.99,40.99,low,low,4,name.com,,,08/08/2026 09:16
 e7da9819-fff3-4565-9f58-d6e6f7a9f457,tardy.charity,available,5.99,40.99,low,low,5,name.com,,,09/08/2026 12:42
@@ -854,7 +854,7 @@ a853671c-f845-4819-b7b6-292e4bb985c6,playabout.charity,available,5.99,,low,low,1
 2f9291f0-f517-430c-8336-068b0e0140a3,might.charity,available,5.99,,high,low,5,name.com,,,
 d94e69b4-c85e-4570-b036-a74ccf703a3e,ser.charity,premium,41.25,,high,low,3,name.com,,,
 9ebf0ce4-3281-4916-bf84-f4fe2615cf84,hardatit.charity,available,5.99,,high,low,10,name.com,,,
-3ee4eaa5-710c-413a-8f97-1015fd33034a,bill.charity,available,5.99,40.99,medium,low,4,name.com,,,14/09/2026 03:22
+3ee4eaa5-710c-413a-8f97-1015fd33034a,bill.charity,available,14.99,23.99,low,low,4,namesilo,,,19/09/2026 17:00
 5e7fe3e6-ab05-44ad-ac75-c4f148431bc9,alimony.charity,available,5.99,,medium,low,7,name.com,,,
 94cd9c45-be76-4b49-a318-fd13f498ffb7,diplomacy.charity,available,5.99,,high,low,9,name.com,,,
 5d67b69a-7fbc-44e9-988c-e551dfd6e0e4,autolytic.charity,available,5.99,40.99,low,low,9,name.com,,,07/08/2026 20:42
@@ -884,7 +884,7 @@ ae5ca87b-b5d4-4d12-9ef0-c03beaf7d75d,easily.charity,available,5.99,40.99,high,lo
 274e13b0-d5cf-4b85-b95e-343b379424fd,unanimously.charity,available,5.99,,medium,low,11,name.com,,,
 3c7c6c8b-1f67-4c27-bced-02fff8aac5ff,magiccarpet.charity,available,5.99,,high,low,12,name.com,,,
 b42637d4-c43b-482c-8981-42321b443a5d,aneurismal.charity,available,5.99,40.99,low,low,10,name.com,,,
-bca32525-a8da-484e-907d-62d5e915692d,WestHaven.charity,available,5.99,,low,low,10,name.com,,,
+bca32525-a8da-484e-907d-62d5e915692d,westhaven.charity,available,5.99,,low,low,10,name.com,,,
 2632891e-1516-4a80-9e71-de1ce5579b94,patrician.charity,available,5.99,40.99,low,low,9,name.com,,,06/08/2026 19:34
 3ff1b436-8e21-405c-8836-5e3e074975a0,massive.charity,available,5.99,,high,low,7,name.com,,,
 67728d78-bf4a-4be8-afe2-6c885a6e6c39,utterly.charity,available,5.99,,medium,low,7,name.com,,,
@@ -893,7 +893,7 @@ f1515052-f01a-4a3e-819d-e80ff4753d94,mealvoucher.charity,available,5.99,,high,lo
 cd31c424-92d8-4dfb-b631-948a5f8554e0,thirtythree.charity,available,5.99,,high,low,12,name.com,,,
 0a99163e-b94f-4f06-96a6-3a27dcaafa58,inc.charity,premium,242,242,medium,low,3,namesilo,,,
 64dc91ab-6462-4f1b-a47f-c717a83db267,definitively.charity,available,5.99,,medium,low,12,name.com,,,
-039b34dc-827a-4057-b332-a1fe3f5cb54e,Imustsay.charity,available,5.99,,medium,low,10,name.com,,,
+039b34dc-827a-4057-b332-a1fe3f5cb54e,imustsay.charity,available,5.99,,medium,low,10,name.com,,,
 f943856e-e605-40c3-b6ca-d786495cc9a2,clv.charity,premium,14.99,23.99,low,low,3,namesilo,,,
 b4d13e8a-139c-41ce-bdbd-fcd66fece2f0,chagrined.charity,available,5.99,40.99,low,low,9,name.com,,,
 9869dbaf-694b-468a-90fb-1e28330f8598,brown.charity,available,5.99,,high,low,5,name.com,,,
@@ -915,7 +915,7 @@ b50a5bef-7ba2-40fb-9e16-574a6cb59a0d,parallel.charity,available,5.99,40.99,mediu
 a35985e4-08dc-4bb1-ad48-fafe7f9ed793,more.charity,available,5.99,,high,medium,4,name.com,,,
 b81fa316-c5a2-48a2-bb54-20d450ba5f1e,nurse.charity,available,5.99,,medium,low,5,name.com,,,
 9dc45308-81e2-43ac-a74a-1aa542419b84,east.charity,available,5.99,40.99,high,low,4,name.com,,,
-32898799-0518-4c27-89bc-4a5c6f08cb34,USdollar.charity,available,5.99,,high,low,9,name.com,,,
+32898799-0518-4c27-89bc-4a5c6f08cb34,usdollar.charity,available,5.99,,high,low,9,name.com,,,
 dedb1cac-4637-40f4-ae82-067f874416a3,accusive.charity,available,5.99,40.99,low,low,8,name.com,,,
 27ad80c6-6d6a-4234-894c-922f7480c58c,closetogether.charity,available,5.99,,medium,low,14,name.com,,,
 6489f448-ac3d-4d4c-843e-bf66bb66a839,celiacdisease.charity,available,5.99,,medium,low,14,name.com,,,
@@ -976,7 +976,7 @@ e76f0171-8413-4541-bf32-7709f589aecd,roundabout.charity,available,5.99,40.99,low
 8d1fadca-3ae5-4568-bc26-1baea4abd70f,lxxxi.charity,available,5.99,40.99,low,low,5,name.com,,,
 fd13354c-df8d-469d-a8db-2f9f8655a2de,voter.charity,available,5.99,,medium,low,5,name.com,,,
 73dfe5da-8a5b-4c7a-9106-4b3a9104216d,retail.charity,available,5.99,,high,low,6,name.com,,,
-373ceba8-8fdd-4a01-a5e5-b7214f5fe139,attack.charity,available,5.99,40.99,medium,low,6,name.com,,,24/08/2026 11:44
+373ceba8-8fdd-4a01-a5e5-b7214f5fe139,attack.charity,available,7.48,37.98,medium,low,6,namecheap,,,19/09/2026 14:18
 9d221250-b20a-4f45-a896-47c9c873b05c,watt.charity,available,5.99,,medium,low,4,name.com,,,
 85f10d45-0178-4609-8bb6-bb0cd757a297,nationalanthem.charity,available,5.99,,high,low,15,name.com,,,
 c62e6ede-7afd-47df-8924-4504c25c3880,overall.charity,available,5.99,,high,low,7,name.com,,,
