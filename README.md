@@ -1,10 +1,10 @@
-# Available .CHARITY One-Word Domains (14,339)
+# Available .CHARITY One-Word Domains (23,555)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C339%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C555%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .charity one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,339 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,555 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,339 domains · **Median ask:** $10.56 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 23,555 domains · **Median ask:** $13.44 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/charity`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| power.charity    | resell    | $5.99     | —             | high           | medium | 5      | Porkbun LLC     |
-| endorse.charity  | available | $7.48     | $37.98        | high           | low    | 7      | namecheap       |
-| safety.charity   | premium   | $242      | $242          | high           | low    | 6      | namesilo        |
-| terminal.charity | available | $7.48     | $37.98        | high           | low    | 8      | namecheap       |
-| ache.charity     | available | $5.99     | $40.99        | high           | low    | 4      | name.com        |
-| atp.charity      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| acne.charity     | available | $5.99     | —             | high           | low    | 4      | name.com        |
-| now.charity      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| aug.charity      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| acre.charity     | available | $5.99     | —             | high           | low    | 4      | name.com        |
-| join.charity     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| awe.charity      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| ahuh.charity     | available | $5.99     | —             | high           | low    | 4      | name.com        |
-| angel.charity    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
-| bit.charity      | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
-| alky.charity     | available | $5.99     | $40.99        | medium         | low    | 4      | name.com        |
-| hello.charity    | resell    | —         | —             | high           | high   | 5      | NameSilo, LLC   |
-| bum.charity      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| alto.charity     | available | $5.99     | $40.99        | high           | low    | 4      | name.com        |
-| human.charity    | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agha.charity   | available | $14.99    | $23.99        | medium         | low    | 4      | namesilo  |
+| atlas.charity  | resell    | —         | —             | high           | medium | 5      | —         |
+| apr.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| ajax.charity   | available | $7.48     | $37.98        | high           | low    | 4      | namecheap |
+| planet.charity | resell    | —         | —             | high           | medium | 6      | —         |
+| apt.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| alca.charity   | available | $14.99    | $23.99        | high           | low    | 4      | namesilo  |
+| ayr.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| aloe.charity   | available | $14.99    | $23.99        | high           | low    | 4      | namesilo  |
+| bar.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| anal.charity   | available | $5.99     | $40.99        | high           | low    | 4      | name.com  |
+| bce.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| asea.charity   | available | $7.48     | $37.98        | medium         | low    | 4      | namecheap |
+| bid.charity    | premium   | $242      | $242          | high           | low    | 3      | namesilo  |
+| bade.charity   | available | $14.99    | $23.99        | high           | low    | 4      | namesilo  |
+| cap.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| barf.charity   | available | $7.48     | $37.98        | high           | medium | 4      | namecheap |
+| cbs.charity    | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo  |
+| bawl.charity   | available | $14.99    | $23.99        | medium         | low    | 4      | namesilo  |
+| ccp.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,339 live domains                        |
+| 1,000-row public sample | 23,555 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 9 high-demand names under $2,500           |
+| Basic exported fields   | 25 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
