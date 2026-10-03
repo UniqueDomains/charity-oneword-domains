@@ -1,10 +1,10 @@
-# Available .CHARITY One-Word Domains (33,552)
+# Available .CHARITY One-Word Domains (35,894)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C552%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C894%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .charity one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,552 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,894 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,552 domains · **Median ask:** $14.96 · **High-demand under $2,500:** 46
+**Public extract:** 1,000 rows · **Live catalog:** 35,894 domains · **Median ask:** $15.02 · **High-demand under $2,500:** 49
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/charity`
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | alca.charity  | available | $14.99    | $23.99        | high           | low    | 4      | namesilo    |
 | apt.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
 | aloe.charity  | available | $14.99    | $23.99        | high           | low    | 4      | namesilo    |
-| bar.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
+| aya.charity   | premium   | $36.30    | $36.30        | high           | low    | 3      | dynadot     |
 | anal.charity  | available | $5.99     | $40.99        | high           | low    | 4      | name.com    |
-| bce.charity   | premium   | $34.36    | $34.36        | medium         | low    | 3      | spaceship   |
+| bar.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
 | asea.charity  | available | $7.48     | $37.98        | medium         | low    | 4      | namecheap   |
-| bid.charity   | premium   | $242      | $242          | high           | low    | 3      | namesilo    |
+| bce.charity   | premium   | $34.36    | $34.36        | medium         | low    | 3      | spaceship   |
 | bade.charity  | available | $14.99    | $23.99        | high           | low    | 4      | namesilo    |
-| cap.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
+| bid.charity   | premium   | $242      | $242          | high           | low    | 3      | namesilo    |
 | barf.charity  | available | $7.48     | $37.98        | high           | medium | 4      | namecheap   |
-| cbs.charity   | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo    |
+| cap.charity   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
 | bier.charity  | available | $14.99    | $23.99        | high           | low    | 4      | namesilo    |
-| ccp.charity   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo    |
+| cbs.charity   | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo    |
 | bohr.charity  | available | $21.70    | $21.70        | medium         | low    | 4      | cloudflare  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,552 live domains                        |
+| 1,000-row public sample | 35,894 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 46 high-demand names under $2,500          |
+| Basic exported fields   | 49 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHARITY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
